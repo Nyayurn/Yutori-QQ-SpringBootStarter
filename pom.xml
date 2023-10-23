@@ -7,7 +7,7 @@
     <artifactId>YurnQbotFramework-spring-boot-starter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Yurn's Java SpringBoot QQ Satori bot framework</name>
-    <description>基于 Satori 协议和 YurnSatoriFramework 的 Java SpringBoot QQ 机器人开发框架</description>
+    <description>基于 Satori 协议和 YurnQbotFramework 的 Java SpringBoot QQ 机器人开发框架</description>
     <url>https://github.com/Nyayurn/YurnQbotFramework-spring-boot-starter</url>
 
     <properties>
