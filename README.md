@@ -2,7 +2,8 @@
 
 # YurnQbotFramework-spring-boot-starter
 
-基于 [Satori](https://satori.js.org/zh-CN/) 协议和 [YurnSatoriFramework](https://github.com/Nyayurn/YurnSatoriFramework) 的 Java [SpringBoot](https://spring.io/projects/spring-boot) QQ 机器人开发框架
+基于 [Satori](https://satori.js.org/zh-CN/) 协议和 [YurnQbotFramework](https://github.com/Nyayurn/YurnQbotFramework) 的 Java
+[SpringBoot](https://spring.io/projects/spring-boot) QQ 机器人开发框架
 
 <img src="https://img.shields.io/badge/JDK-17+-brightgreen.svg?style=flat-square" alt="jdk-version">
 
