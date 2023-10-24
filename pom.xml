@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.nyayurn</groupId>
-    <artifactId>YurnQbotFramework-spring-boot-starter</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>Yurn's Java SpringBoot QQ Satori bot framework</name>
-    <description>基于 Satori 协议和 YurnQbotFramework 的 Java SpringBoot QQ 机器人开发框架</description>
-    <url>https://github.com/Nyayurn/YurnQbotFramework-spring-boot-starter</url>
+    <artifactId>Yutori-QQ-SpringBootStarter</artifactId>
+    <version>0.0.1</version>
+    <name>Yutori-QQ-SpringBootStarter</name>
+    <description>基于 Satori 协议和 Yutori-QQ 的 Java SpringBoot QQ 机器人开发框架</description>
+    <url>https://github.com/Nyayurn/Yutori-QQ-SpringBootStarter</url>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -36,8 +36,8 @@
     </developers>
 
     <scm>
-        <url>https://github.com/Nyayurn/YurnQbotFramework-spring-boot-starter</url>
-        <connection>https://github.com/Nyayurn/YurnQbotFramework-spring-boot-starter.git</connection>
+        <url>https://github.com/Nyayurn/Yutori-QQ-SpringBootStarter</url>
+        <connection>https://github.com/Nyayurn/Yutori-QQ-SpringBootStarter.git</connection>
     </scm>
 
     <dependencies>
@@ -53,8 +53,8 @@
         </dependency>
         <dependency>
             <groupId>io.github.nyayurn</groupId>
-            <artifactId>YurnQbotFramework</artifactId>
-            <version>0.0.8</version>
+            <artifactId>yutori-qq</artifactId>
+            <version>0.0.9</version>
         </dependency>
 
         <dependency>

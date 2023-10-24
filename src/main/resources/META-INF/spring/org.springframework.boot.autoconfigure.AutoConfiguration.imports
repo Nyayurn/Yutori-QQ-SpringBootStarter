@@ -1,1 +1,1 @@
-com.yurn.satori.framework.qq.springboot.autoconfigure.YurnQbotAutoConfiguration
+io.github.nyayurn.yutori.qq.spring.boot.starter.YurnQbotAutoConfiguration

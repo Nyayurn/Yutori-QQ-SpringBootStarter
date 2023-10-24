@@ -10,7 +10,7 @@ MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
 See the Mulan PSL v2 for more details.
  */
 
-package com.yurn.satori.framework.qq.springboot.autoconfigure;
+package io.github.nyayurn.yutori.qq.spring.boot.starter;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
@@ -19,7 +19,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
  * @author Yurn
  */
 @Data
-@ConfigurationProperties(prefix = "yurn.satori.sdk")
+@ConfigurationProperties(prefix = "yutori")
 public class YurnSatoriProperties {
     /**
      * 机器人的平台
