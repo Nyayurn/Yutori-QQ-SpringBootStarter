@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.nyayurn</groupId>
-    <artifactId>Yutori-QQ-SpringBootStarter</artifactId>
+    <artifactId>yutori-qq-spring-boot-starter</artifactId>
     <version>0.0.1</version>
     <name>Yutori-QQ-SpringBootStarter</name>
     <description>基于 Satori 协议和 Yutori-QQ 的 Java SpringBoot QQ 机器人开发框架</description>
