@@ -5,6 +5,8 @@
 基于 [Satori](https://satori.js.org/zh-CN/) 协议和 [Yutori-QQ](https://github.com/Nyayurn/Yutori-QQ) 的 Java
 [SpringBoot](https://spring.io/projects/spring-boot) QQ 机器人开发框架
 
+因 [Yutori-QQ](https://github.com/Nyayurn/Yutori-QQ) 停更, 本项目也跟着停更了
+
 <img src="https://img.shields.io/badge/JDK-17+-brightgreen.svg?style=flat-square" alt="jdk-version">
 
 </div>
@@ -28,6 +30,12 @@
         <version>0.0.1</version>
     </dependency>
 </dependencies>
+```
+
+### Gradle
+
+```kotlin
+implementation("io.github.nyayurn:yutori-qq-spring-boot-starter:0.0.1")
 ```
 
 ## 第一个监听器
